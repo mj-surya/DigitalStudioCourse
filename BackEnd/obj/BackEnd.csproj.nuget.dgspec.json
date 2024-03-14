@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/BackEnd/BackEnd.csproj": {}
+    "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/DigitalStudioCourse/BackEnd/BackEnd.csproj": {}
   },
   "projects": {
-    "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/BackEnd/BackEnd.csproj": {
+    "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/DigitalStudioCourse/BackEnd/BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/BackEnd/BackEnd.csproj",
+        "projectUniqueName": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/DigitalStudioCourse/BackEnd/BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/BackEnd/BackEnd.csproj",
+        "projectPath": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/DigitalStudioCourse/BackEnd/BackEnd.csproj",
         "packagesPath": "/Users/1000055479/.nuget/packages/",
-        "outputPath": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/BackEnd/obj/",
+        "outputPath": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/DigitalStudioCourse/BackEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/1000055479/.nuget/NuGet/NuGet.Config"

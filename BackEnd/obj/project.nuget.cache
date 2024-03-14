@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+8VOVG9Q9hJ0gy3v+ebEywOPjRw9ynCisyJP4myau3I2gZTxpqpXZRNwd687dsOXB3htUwhmGQTdlNSLCQd7Q==",
+  "dgSpecHash": "yJxPh2EkRMBkgvpcZN1f3lrNV1jjEpxLP7mF4/QYToC8Gjmr3vkv6Y94U1jDAxVtszEnsKSmF+i57qdDH+rp0w==",
   "success": true,
-  "projectFilePath": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/BackEnd/BackEnd.csproj",
+  "projectFilePath": "/Users/1000055479/Dotnet-Login/DigitalStudioCourse/DigitalStudioCourse/BackEnd/BackEnd.csproj",
   "expectedPackageFiles": [
     "/Users/1000055479/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/Users/1000055479/.nuget/packages/google.protobuf/3.25.1/google.protobuf.3.25.1.nupkg.sha512",
